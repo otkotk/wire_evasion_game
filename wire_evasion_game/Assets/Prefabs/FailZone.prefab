@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 1830320647912618674}
   - component: {fileID: 4778340059443034297}
   - component: {fileID: 198412814884295008}
-  - component: {fileID: 1808638534570562927}
   m_Layer: 0
   m_Name: FailZone
   m_TagString: Untagged
@@ -110,18 +109,3 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &1808638534570562927
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1143041721677866090}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f54e68747fe614929a80d315886c0e84, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 3
-  startPosition: 8
-  endPosition: -8
