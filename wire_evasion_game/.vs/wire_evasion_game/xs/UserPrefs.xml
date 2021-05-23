@@ -8,9 +8,10 @@
         <State name="__root__">
           <Node name="wire_evasion_game" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Script" expanded="True">
-                <Node name="CleatTrigger.cs" selected="True" />
+              <Node name="Effect_Sprites" expanded="True">
+                <Node name="Sprites" selected="True" />
               </Node>
+              <Node name="Script" expanded="True" />
             </Node>
           </Node>
         </State>
