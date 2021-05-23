@@ -41,6 +41,15 @@ TagManager:
   - name: Background
     uniqueID: 2110377321
     locked: 0
+  - name: HookBar
+    uniqueID: 445177493
+    locked: 0
+  - name: ColliderBlocks
+    uniqueID: 987708123
+    locked: 0
+  - name: OperatCharacter
+    uniqueID: 2989578209
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

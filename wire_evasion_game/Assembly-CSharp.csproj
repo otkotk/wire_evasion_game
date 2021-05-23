@@ -61,6 +61,8 @@
     <Compile Include="Assets/Script/HumanController.cs" />
     <Compile Include="Assets/Script/ScrollObject.cs" />
     <Compile Include="Assets/Script/Gizmo.cs" />
+    <Compile Include="Assets/Script/GrapplingRope.cs" />
+    <Compile Include="Assets/Script/GrapplingGun.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
