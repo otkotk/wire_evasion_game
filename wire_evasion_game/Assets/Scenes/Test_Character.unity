@@ -731,6 +731,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.30993313, y: 0.32066172}
   m_EdgeRadius: 0
+--- !u!114 &839572080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 839572076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d6c37d15faf65346b57e1eb714532d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHeight: 32.23
+  flapVelocity: 43.9
 --- !u!1 &948969667 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1108697650607069901, guid: 11ffc33e26794a64cb59e7bb26a52ea2, type: 3}
@@ -762,6 +776,11 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.05, y: 0.36}
   m_EdgeRadius: 0
+--- !u!50 &948969670 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: 5757944839964017426, guid: 11ffc33e26794a64cb59e7bb26a52ea2, type: 3}
+  m_PrefabInstance: {fileID: 2007321699}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1166061596 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1108697650607069901, guid: 11ffc33e26794a64cb59e7bb26a52ea2, type: 3}
@@ -1176,16 +1195,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6194387617159914559, guid: 11ffc33e26794a64cb59e7bb26a52ea2, type: 3}
       propertyPath: m_ConnectedAnchor.x
-      value: 0.162056
+      value: 0.002044957
       objectReference: {fileID: 0}
     - target: {fileID: 6194387617159914559, guid: 11ffc33e26794a64cb59e7bb26a52ea2, type: 3}
       propertyPath: m_ConnectedAnchor.y
-      value: -0.22543271
+      value: -0.1626135
       objectReference: {fileID: 0}
     - target: {fileID: 6194387617159914559, guid: 11ffc33e26794a64cb59e7bb26a52ea2, type: 3}
       propertyPath: m_ConnectedRigidBody
       value: 
-      objectReference: {fileID: 1329754860}
+      objectReference: {fileID: 948969670}
     - target: {fileID: 8973757411911251829, guid: 11ffc33e26794a64cb59e7bb26a52ea2, type: 3}
       propertyPath: m_ConnectedAnchor.y
       value: 1.0929999

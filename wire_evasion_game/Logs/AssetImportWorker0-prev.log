@@ -1,130 +1,506 @@
 Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.804; Version 2009; 64bit' Language: 'ja' Physical Memory: 16271 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MacOS/Unity
+D:\Tool\Unity\Unity_Project\2020.3.7f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/Users/ota.kou/github_repositories/wire_evasion_game/wire_evasion_game
+D:/Tool/Sourcetree/spiderMan/wire_evasion_game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52923
-Successfully changed project path to: /Users/ota.kou/github_repositories/wire_evasion_game/wire_evasion_game
-/Users/ota.kou/github_repositories/wire_evasion_game/wire_evasion_game
+65328
+Successfully changed project path to: D:/Tool/Sourcetree/spiderMan/wire_evasion_game
+D:/Tool/Sourcetree/spiderMan/wire_evasion_game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 33.33 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 40.17 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.7f1 (dd97f2c94397)
-[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/ota.kou/github_repositories/wire_evasion_game/wire_evasion_game/Assets
+[Subsystems] Discovering subsystems at path D:/Tool/Unity/Unity_Project/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Tool/Sourcetree/spiderMan/wire_evasion_game/Assets
 GfxDevice: creating device client; threaded=0
-2021-05-23 21:04:19.964 Unity[36671:1999352] Color LCD preferred device: AMD Radeon Pro 555X (high power)
-2021-05-23 21:04:19.964 Unity[36671:1999352] Metal devices available: 2
-2021-05-23 21:04:19.964 Unity[36671:1999352] 0: AMD Radeon Pro 555X (high power)
-2021-05-23 21:04:19.964 Unity[36671:1999352] 1: Intel(R) UHD Graphics 630 (low power)
-2021-05-23 21:04:19.964 Unity[36671:1999352] Using device AMD Radeon Pro 555X (high power)
-Initializing Metal device caps: AMD Radeon Pro 555X
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     1989 MB
+    Driver:   23.21.13.8816
 Initialize mono
-Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Managed'
-Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56671
+Mono path[0] = 'D:/Tool/Unity/Unity_Project/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Tool/Unity/Unity_Project/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Tool/Unity/Unity_Project/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.000528 seconds.
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 33.49 ms, found 2 plugins.
+Register platform support module: D:/Tool/Unity/Unity_Project/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001225 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.07 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.740 seconds
+- Completed reload, in  1.585 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000458 seconds.
+Registered in 0.000755 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 31.46 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 41.17 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.048 seconds
+- Completed reload, in  0.962 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launching external process: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
-Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 152.5 MB.
-System memory in use after: 152.5 MB.
+System memory in use before: 85.1 MB.
+System memory in use after: 85.0 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2256.
-Total: 2.394713 ms (FindLiveObjects: 0.231247 ms CreateObjectMapping: 0.096405 ms MarkObjects: 1.920800 ms  DeleteObjects: 0.145101 ms)
+Total: 2.817900 ms (FindLiveObjects: 0.394200 ms CreateObjectMapping: 0.187700 ms MarkObjects: 2.077200 ms  DeleteObjects: 0.157400 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Prefabs/OjamaBlock.prefab
-  artifactKey: Guid(f91e6804bb62f44339528910e51fde6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/OjamaBlock.prefab using Guid(f91e6804bb62f44339528910e51fde6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b65c20c3de90d65c6e50ff566ad6a22') in 0.909449 seconds
-  Import took 0.913166 seconds .
+  path: Assets/Tawata_prefabs/Head.prefab
+  artifactKey: Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs/Head.prefab using Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6466d339301cb35a69e361fc613fad') in 0.195696 seconds
+  Import took 0.198920 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/Prefabs/FailZone.prefab
-  artifactKey: Guid(7d73aea5754a142acabb05d7606efbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/FailZone.prefab using Guid(7d73aea5754a142acabb05d7606efbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1de42de588308b8f4004cd490d7a9726') in 0.013984 seconds
-  Import took 0.016730 seconds .
+  Time since last request: 0.000511 seconds.
+  path: Assets/Tawata_prefabs/Bo.prefab
+  artifactKey: Guid(11ffc33e26794a64cb59e7bb26a52ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs/Bo.prefab using Guid(11ffc33e26794a64cb59e7bb26a52ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8c71cde4d7f3e0c69a0de9545317b7') in 0.014966 seconds
+  Import took 0.018545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Tawata_prefabs
+  artifactKey: Guid(233c6daf6d6d16940ba8c5a626dfc787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs using Guid(233c6daf6d6d16940ba8c5a626dfc787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '270bc94d11a4a6b42c3403fcadb149e2') in 0.008052 seconds
+  Import took 0.012483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.287400 seconds.
+  path: Assets/Scenes/Test_Character.unity
+  artifactKey: Guid(9ec53b005b7ae24408b5e8458b47a8e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test_Character.unity using Guid(9ec53b005b7ae24408b5e8458b47a8e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b87edf492c54134d5805ab219dd9b8bd') in 0.007887 seconds
+  Import took 0.011323 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000798 seconds.
+Registered in 0.000764 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.956 seconds
+- Completed reload, in  0.864 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 160.2 MB.
-System memory in use after: 160.2 MB.
+System memory in use before: 88.1 MB.
+System memory in use after: 88.1 MB.
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2267.
-Total: 2.631244 ms (FindLiveObjects: 0.259429 ms CreateObjectMapping: 0.075973 ms MarkObjects: 2.161957 ms  DeleteObjects: 0.132326 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.968618 seconds.
-  path: Assets/Prefabs/FailZone.prefab
-  artifactKey: Guid(7d73aea5754a142acabb05d7606efbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/FailZone.prefab using Guid(7d73aea5754a142acabb05d7606efbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957f26fab4b991a072bd4a64dc58505d') in 0.066828 seconds
-  Import took 0.070702 seconds .
+Total: 2.225400 ms (FindLiveObjects: 0.200900 ms CreateObjectMapping: 0.073400 ms MarkObjects: 1.804800 ms  DeleteObjects: 0.145300 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000830 seconds.
+Registered in 0.000773 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.910 seconds
+- Completed reload, in  0.899 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 160.5 MB.
-System memory in use after: 160.5 MB.
+System memory in use before: 88.1 MB.
+System memory in use after: 88.1 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2272.
-Total: 2.028114 ms (FindLiveObjects: 0.194535 ms CreateObjectMapping: 0.064675 ms MarkObjects: 1.663495 ms  DeleteObjects: 0.102834 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2271.
+Total: 3.757900 ms (FindLiveObjects: 0.216300 ms CreateObjectMapping: 0.116100 ms MarkObjects: 3.273400 ms  DeleteObjects: 0.149900 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 120.861485 seconds.
+  path: Assets/Huma/Arm.png
+  artifactKey: Guid(6a077bb178c9b124d916e92a51cb91cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Huma/Arm.png using Guid(6a077bb178c9b124d916e92a51cb91cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '884fcfe79823ca8e9daec346383167a0') in 0.119337 seconds
+  Import took 0.122727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Huma/Human_Act_2.png
+  artifactKey: Guid(a7de94b17eb151c4093d6f1a0267987b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Huma/Human_Act_2.png using Guid(a7de94b17eb151c4093d6f1a0267987b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d26d863bcff7d37cd908fba38530e5e') in 0.013496 seconds
+  Import took 0.017192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Huma/Human_Idel.png
+  artifactKey: Guid(85e2be6a6a9548c4b897bd1493e6ddec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Huma/Human_Idel.png using Guid(85e2be6a6a9548c4b897bd1493e6ddec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f0a568a48242a51ce6baba24062e618') in 0.015423 seconds
+  Import took 0.020254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Huma/Head.png
+  artifactKey: Guid(27178c85c77004e41bfc52ec8249be4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Huma/Head.png using Guid(27178c85c77004e41bfc52ec8249be4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc88f3d1dd0d3dd9e3bd41cae22075db') in 0.016973 seconds
+  Import took 0.022676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Huma/Human_Act_1.png
+  artifactKey: Guid(3696358047b34e14b8519a917193f289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Huma/Human_Act_1.png using Guid(3696358047b34e14b8519a917193f289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ea214e5495bbc969f889ab4d35740b') in 0.019464 seconds
+  Import took 0.023607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Huma/Bo.png
+  artifactKey: Guid(f104ec3f9419e314c8de61de7a974a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Huma/Bo.png using Guid(f104ec3f9419e314c8de61de7a974a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2effa7583ff1b0f04bc0a51e4aa4e1f3') in 0.013982 seconds
+  Import took 0.018393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.400463 seconds.
+  path: Assets/Prefabs/FailZone.prefab
+  artifactKey: Guid(7d73aea5754a142acabb05d7606efbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/FailZone.prefab using Guid(7d73aea5754a142acabb05d7606efbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19950c5a306b27ba05bf392556bd4430') in 0.029455 seconds
+  Import took 0.033281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Prefabs/OjamaBlock.prefab
+  artifactKey: Guid(f91e6804bb62f44339528910e51fde6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/OjamaBlock.prefab using Guid(f91e6804bb62f44339528910e51fde6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a34e510ebd8d45f603e88736b0b0a5') in 0.014722 seconds
+  Import took 0.019494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.521618 seconds.
+  path: Assets/Tawata_Script
+  artifactKey: Guid(125555f449b90b34d91d0cbc256b69bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_Script using Guid(125555f449b90b34d91d0cbc256b69bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7353704da8db6715d6c5a07a8b811f') in 0.007497 seconds
+  Import took 0.011164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.032093 seconds.
+  path: Assets/Script/CleatTrigger.cs
+  artifactKey: Guid(ab093434f88af41099e4794d6f5ebc86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/CleatTrigger.cs using Guid(ab093434f88af41099e4794d6f5ebc86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3713c3ffa22aa20de2f23b618687e9') in 0.023177 seconds
+  Import took 0.026601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.537462 seconds.
+  path: Assets/Script/HumanController.cs
+  artifactKey: Guid(9d9e76cd262fbe64987c9e422e2ba031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/HumanController.cs using Guid(9d9e76cd262fbe64987c9e422e2ba031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ea63e482f12ff903b9cd964049b551') in 0.005799 seconds
+  Import took 0.008809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.477122 seconds.
+  path: Assets/Script/HumanController.cs
+  artifactKey: Guid(9d9e76cd262fbe64987c9e422e2ba031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/HumanController.cs using Guid(9d9e76cd262fbe64987c9e422e2ba031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ea63e482f12ff903b9cd964049b551') in 0.001893 seconds
+  Import took 0.005561 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000817 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Platform modules already initialized, skipping
+Script is not up to date after domain reload: guid(3d6c37d15faf65346b57e1eb714532d1) path("Assets/Tawata_Script/HumanController.cs") state(2)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2284.
+Total: 2.463900 ms (FindLiveObjects: 0.357000 ms CreateObjectMapping: 0.140400 ms MarkObjects: 1.775300 ms  DeleteObjects: 0.190100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.102943 seconds.
+  path: Assets/Tawata_Script/HumanController.cs
+  artifactKey: Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_Script/HumanController.cs using Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a90bcbe492dce6c2305aeb7b8a549f9') in 0.004993 seconds
+  Import took 0.008347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001461 seconds.
+  path: Assets/Tawata_Script/HumanController.cs
+  artifactKey: Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_Script/HumanController.cs using Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a90bcbe492dce6c2305aeb7b8a549f9') in 0.001953 seconds
+  Import took 0.006079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.211114 seconds.
+  path: Assets/Tawata_Script/tawata_HumanController.cs
+  artifactKey: Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_Script/tawata_HumanController.cs using Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc153ebf09c9dfd0e202876e35e8702d') in 0.008598 seconds
+  Import took 0.013181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002555 seconds.
+  path: Assets/Tawata_Script/tawata_HumanController.cs
+  artifactKey: Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_Script/tawata_HumanController.cs using Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc153ebf09c9dfd0e202876e35e8702d') in 0.001912 seconds
+  Import took 0.006205 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000707 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2289.
+Total: 3.634700 ms (FindLiveObjects: 0.481200 ms CreateObjectMapping: 0.143800 ms MarkObjects: 2.753000 ms  DeleteObjects: 0.255300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.231637 seconds.
+  path: Assets/Tawata_Script/tawata_HumanController.cs
+  artifactKey: Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_Script/tawata_HumanController.cs using Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a08afc02a1a9903f063855b360140524') in 0.004719 seconds
+  Import took 0.007739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.875398 seconds.
+  path: Assets/Tawata_Script/Tawata_HumanController.cs
+  artifactKey: Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_Script/Tawata_HumanController.cs using Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1eeea752fd78d5b6e68aa389472d8b5') in 0.007019 seconds
+  Import took 0.010616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000851 seconds.
+  path: Assets/Tawata_Script/Tawata_HumanController.cs
+  artifactKey: Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_Script/Tawata_HumanController.cs using Guid(3d6c37d15faf65346b57e1eb714532d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1eeea752fd78d5b6e68aa389472d8b5') in 0.001796 seconds
+  Import took 0.007129 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000757 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.925 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2293.
+Total: 2.662500 ms (FindLiveObjects: 0.294300 ms CreateObjectMapping: 0.118600 ms MarkObjects: 2.075800 ms  DeleteObjects: 0.172400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000738 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.884 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2297.
+Total: 2.349100 ms (FindLiveObjects: 0.205500 ms CreateObjectMapping: 0.075300 ms MarkObjects: 1.906000 ms  DeleteObjects: 0.161300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001065 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.947 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2301.
+Total: 2.972000 ms (FindLiveObjects: 0.518400 ms CreateObjectMapping: 0.247400 ms MarkObjects: 2.055000 ms  DeleteObjects: 0.148900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.458019 seconds.
+  path: Assets/Tawata_prefabs/Head.prefab
+  artifactKey: Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs/Head.prefab using Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2474210d5a6a5f7466d0ded83948b045') in 0.066939 seconds
+  Import took 0.070517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.650846 seconds.
+  path: Assets/Tawata_prefabs/Head.prefab
+  artifactKey: Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs/Head.prefab using Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b8f8132e4f00327ebba7b81592a40bc') in 0.009240 seconds
+  Import took 0.013572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009672 seconds.
+  path: Assets/Tawata_prefabs/Head.prefab
+  artifactKey: Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs/Head.prefab using Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b8f8132e4f00327ebba7b81592a40bc') in 0.009456 seconds
+  Import took 0.013194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.500802 seconds.
+  path: Assets/Tawata_prefabs/Head.prefab
+  artifactKey: Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs/Head.prefab using Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7b157024a4d1ce202ca02e22a772ce') in 0.009645 seconds
+  Import took 0.013983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008575 seconds.
+  path: Assets/Tawata_prefabs/Head.prefab
+  artifactKey: Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs/Head.prefab using Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7b157024a4d1ce202ca02e22a772ce') in 0.018634 seconds
+  Import took 0.023341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.829682 seconds.
+  path: Assets/Tawata_prefabs/Head.prefab
+  artifactKey: Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs/Head.prefab using Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a975267888c14a773350137e8267c788') in 0.021041 seconds
+  Import took 0.027181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001005 seconds.
+  path: Assets/Tawata_prefabs/Head.prefab
+  artifactKey: Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs/Head.prefab using Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a975267888c14a773350137e8267c788') in 0.012192 seconds
+  Import took 0.017523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.662068 seconds.
+  path: Assets/Tawata_prefabs/Head.prefab
+  artifactKey: Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs/Head.prefab using Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f38f36ed584eb08c9993ba0790145d8') in 0.008759 seconds
+  Import took 0.014261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008840 seconds.
+  path: Assets/Tawata_prefabs/Head.prefab
+  artifactKey: Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tawata_prefabs/Head.prefab using Guid(69ede0cf50e285c4e99dcee97158b9e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f38f36ed584eb08c9993ba0790145d8') in 0.014425 seconds
+  Import took 0.018801 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001104 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2306.
+Total: 2.649100 ms (FindLiveObjects: 0.423900 ms CreateObjectMapping: 0.119800 ms MarkObjects: 1.943500 ms  DeleteObjects: 0.160300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001125 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.778 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2310.
+Total: 2.640100 ms (FindLiveObjects: 0.427200 ms CreateObjectMapping: 0.179300 ms MarkObjects: 1.866700 ms  DeleteObjects: 0.165600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
